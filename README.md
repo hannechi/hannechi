@@ -1,6 +1,6 @@
 # Hi, I'm Hiheb Hannechi! 👋
 
-I’m an engineering student currently pursuing my Master's in Software Engineering at Sup-Galilée, part of the Université de Sorbonne Paris Nord. With a strong foundation in software development and a passion for technology, I'm actively seeking an internship for my Final Year Project (PFE).
+I’m an engineering student currently pursuing my Master's in Software Engineering at Sup-Galilée, part of the Université de Sorbonne Paris Nord. With a strong foundation in software development and a passion for technology.
 
 ## 🛠️ Skills
 I have hands-on experience with a variety of technologies, including:
@@ -11,9 +11,12 @@ I have hands-on experience with a variety of technologies, including:
 - **Monitoring & Logging:** Elasticsearch, Kibana, Grafana
 - **Agile & Project Management:** Jira
 
+
 ## 📚 Education
-- **Diplôme National d'Ingénieur en Génie Logiciel** (2021 - Present) - Institut Supérieur d'Informatique (ISI), France
-- **Licence Fondamentale en Sciences de l'Informatique** (2018 - 2021) - ISTIC, Tunisie
+- **National Engineering Degree in Software Engineering** (2023 - Present) - Sup-Galilée, University of Sorbonne Paris Nord, France
+- **National Engineering Degree in Software Engineering** (2021 - Present) - Higher Institute of Computer Science (ISI), Tunisia
+- **Bachelor's Degree in Computer Science** (2018 - 2021) - Higher Institute of Information Technology and Communication (ISTIC), Tunisia
+
 
 ## 🌟 Projects
 I've worked on diverse academic projects, including a web application for adapting educational resources and a secure residency application system for African citizens. My recent internship focused on building a DevOps toolchain for Car2Go, emphasizing CI/CD automation and monitoring.
@@ -22,8 +25,8 @@ I've worked on diverse academic projects, including a web application for adapti
 I’m also an active member of the IEEE ISI Student Branch, where I contribute to media and outreach efforts.
 
 ## 🌍 Languages
-- **French:** C1
-- **English:** B2
+- **French:** C2
+- **English:** C1
 
 ## 🎵 Interests
 In my free time, I enjoy music and sports.
