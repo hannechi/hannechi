@@ -1,5 +1,36 @@
-<h1 align="center">Hi 👋, I'm Chiheb HANNECHI</h1>
-<h3 align="center">A passionate software engineering student from France</h3>
+# Hi, I'm Hiheb Hannechi! 👋
+
+I’m an engineering student currently pursuing my Master's in Software Engineering at Sup-Galilée, part of the Université de Sorbonne Paris Nord. With a strong foundation in software development and a passion for technology, I'm actively seeking an internship for my Final Year Project (PFE).
+
+## 🛠️ Skills
+I have hands-on experience with a variety of technologies, including:
+
+- **Languages & Frameworks:** Java, JavaScript, Python, TypeScript, Angular, Spring Boot, FastAPI
+- **Databases:** MySQL, MongoDB, Oracle
+- **DevOps Tools:** Docker, Jenkins, Ansible, Prometheus, Git
+- **Monitoring & Logging:** Elasticsearch, Kibana, Grafana
+- **Agile & Project Management:** Jira
+
+## 📚 Education
+- **Diplôme National d'Ingénieur en Génie Logiciel** (2021 - Present) - Institut Supérieur d'Informatique (ISI), France
+- **Licence Fondamentale en Sciences de l'Informatique** (2018 - 2021) - ISTIC, Tunisie
+
+## 🌟 Projects
+I've worked on diverse academic projects, including a web application for adapting educational resources and a secure residency application system for African citizens. My recent internship focused on building a DevOps toolchain for Car2Go, emphasizing CI/CD automation and monitoring.
+
+## 🤝 Involvement
+I’m also an active member of the IEEE ISI Student Branch, where I contribute to media and outreach efforts.
+
+## 🌍 Languages
+- **French:** C1
+- **English:** B2
+
+## 🎵 Interests
+In my free time, I enjoy music and sports.
+
+Feel free to connect with me or check out my projects!
+
+📧 [hannechichiheb@gmail.com](mailto:hannechichiheb@gmail.com)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannechi&label=Profile%20views&color=0e75b6&style=flat" alt="hannechi" /> </p>
 
@@ -7,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hannechichiheb@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannechichiheb@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chiheb-hannechi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannechichiheb@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
