@@ -1,20 +1,36 @@
-# Hi, I'm Hiheb Hannechi! 👋
+# Hi, I'm Chiheb Hannechi! 👋
 
-I’m an engineering student currently pursuing my Master's in Software Engineering at Sup-Galilée, part of the Université de Sorbonne Paris Nord. With a strong foundation in software development and a passion for technology.
+I’m a final-year engineering student currently pursuing my Master's in Software Engineering at Sup-Galilée, part of Université Sorbonne Paris Nord. I have a strong foundation in software development, enriched by hands-on DevOps experience in real-world industrial environments. I’m passionate about automation, cloud infrastructure, and building robust CI/CD pipelines to streamline software delivery.
 
 ## 🛠️ Skills
-I have hands-on experience with a variety of technologies, including:
+With over 3 years of combined academic and professional experience, I’ve developed a versatile skill set across DevOps, cloud, and full-stack development:
 
-- **Languages & Frameworks:** Java, JavaScript, Python, TypeScript, Angular, Spring Boot, FastAPI
+- ## 🛠️ Skills
+
+### 💻 Development
+- **Languages:** Java, JavaScript, Python, TypeScript, Shell
+- **Frameworks:** Angular, Spring Boot, FastAPI
 - **Databases:** MySQL, MongoDB, Oracle
-- **DevOps Tools:** Docker, Jenkins, Ansible, Prometheus, Git
-- **Monitoring & Logging:** Elasticsearch, Kibana, Grafana
-- **Agile & Project Management:** Jira
+
+### ⚙️ DevOps & Automation
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Automation:** Ansible (including Ansible Automation Platform), Terraform
+- **Monitoring & Logging:** Prometheus, Grafana, ELK/EFK stack (Elasticsearch, Logstash/Fluentd, Kibana)
+- **Infrastructure & Platforms:** Linux, Ansible Automation Platform, system provisioning
+- **Networking Automation:** Cisco Catalyst & Nexus 9K (image upgrades, VLANs, stacks, SSH automation via Ansible)
+
+### 🔧 Tools & Practices
+- Git, GitHub, GitLab, Jira, Confluence
+- Agile & Scrum methodologies
+- SonarQube, REST API testing with Postman
+
+---
 
 
 ## 📚 Education
 - **National Engineering Degree in Software Engineering** (2023 - Present) - Sup-Galilée, University of Sorbonne Paris Nord, France
-- **National Engineering Degree in Software Engineering** (2021 - Present) - Higher Institute of Computer Science (ISI), Tunisia
+- **National Engineering Degree in Software Engineering** (2021 - 2024) - Higher Institute of Computer Science (ISI), Tunisia
 - **Bachelor's Degree in Computer Science** (2018 - 2021) - Higher Institute of Information Technology and Communication (ISTIC), Tunisia
 
 
