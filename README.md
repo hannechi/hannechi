@@ -5,7 +5,7 @@ I’m a final-year engineering student currently pursuing my Master's in Softwar
 ## 🛠️ Skills
 With over 3 years of combined academic and professional experience, I’ve developed a versatile skill set across DevOps, cloud, and full-stack development:
 
-- ## 🛠️ Skills
+
 
 ### 💻 Development
 - **Languages:** Java, JavaScript, Python, TypeScript, Shell
